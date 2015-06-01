@@ -1,7 +1,7 @@
 # hex-grid
 Canvas representation of grids for eclecticmeme.com tiled map - see https://github.com/Techbot/JiGS-PHP-RPG-engine
 
-![My image](left23.github.com/hex-grid/hex-grid-grid1.png)
+![Repo screenshot Grid 1](https://github.com/left23/hex-grid/blob/master/hex-grid-grid1.png)
 
 TO DO:
 
